@@ -46,7 +46,7 @@
     "vue-router": "^3.4.9",
     "vue-template-compiler": "^2.6.11",
     "webpack": "^4.46.0",
-    "webpack-dev-server": "^3.10.1",
+    "webpack-dev-server": "^3.11.2",
     "webpackbar": "^4.0.0"
   },
   "peerDependencies": {
