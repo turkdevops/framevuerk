@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-buble": "^0.21.3",
-    "@vue/compiler-sfc": "^3.0.2",
+    "@vue/compiler-sfc": "^3.0.5",
     "eslint": "^6.8.0",
     "eslint-plugin-vue": "^6.2.2",
     "node-html-parser": "^2.0.0",
